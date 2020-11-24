@@ -4,4 +4,4 @@
 - I have experience in HTML, CSS, Bootstrap, JavaScript, Node.js, React Native (With Expo), Electron.js, jQuery, C# (For Unity), Java, PHP and Python.
 - If I would rank which languages I most used, it would be: #1 JavaScript, #2 PHP, #3 Java
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RO03M&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RO03M&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
