@@ -5,4 +5,4 @@
 - If I would rank which languages I most used, it would be: #1 JavaScript, #2 PHP, #3 Java
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RO03M&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RO03M)](https://github.com/anuraghazra/github-readme-stats)
