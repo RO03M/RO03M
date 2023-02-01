@@ -1,4 +1,4 @@
-Hi, I like to write code
+I like to code
 
 
 
